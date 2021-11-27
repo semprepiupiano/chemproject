@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Tony Matar - what chem has been like for me"
+date:   2021-11-21
+---
+Something that future students will learn in this class is that much of the content taught is directly applicable to almost everything around us. From the intermolecular interactions that take place when soap removes dirt from your hands to the excitation and relaxation of electrons that occur in molecules that allow us to see color, the basic chemistry introduced to you will help you better understand the world around you. Once you are able to understand and appreciate this, learning and mastering the content becomes so much easier. Studying and taking notes transforms from a tedious task you must complete to maintain your GPA to an enlightening experience that will feed your curiosity.
+
+Something our group found challenging was keeping everyone on the same page. Sometimes, each individual would look ahead in the expo while others were still on a previous task, questioning whether we had completed it correctly or just not fully understanding the content. This caused us to be somewhat disorganized as a group. We realized pretty quickly that it was okay to ask each other questions and to verbalize doubt or confusion, even if it would mean someone in our group was wrong. The whole point of expo is to actively learn by making mistakes and working as a group, so disagreement and confusion are inevitable. 
+
+A piece of advice I have for future chemistry students is to ask questions. I was definitely not at the top of my class when it came to background knowledge in chemistry, so I was confused for much of the time when material was first introduced. However, there were so many resources that I had at my disposal to ask for help. Office hours were very convenient, all of the TA’s were extremely knowledgeable and knew how to explain a concept when the textbook or lecture didn’t make sense, and friends and group members were always happy to help. I took advantage of these resources and I urge you to do the same. There is no shame in being confused, as this class is meant for learning, not practicing already mastered material. 
