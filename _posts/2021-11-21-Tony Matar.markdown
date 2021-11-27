@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tony Matar - what chem has been like for me"
+title:  "Tony Matar - A blueprint to chemistry 1410"
 date:   2021-11-21
 ---
 Something that future students will learn in this class is that much of the content taught is directly applicable to almost everything around us. From the intermolecular interactions that take place when soap removes dirt from your hands to the excitation and relaxation of electrons that occur in molecules that allow us to see color, the basic chemistry introduced to you will help you better understand the world around you. Once you are able to understand and appreciate this, learning and mastering the content becomes so much easier. Studying and taking notes transforms from a tedious task you must complete to maintain your GPA to an enlightening experience that will feed your curiosity.
