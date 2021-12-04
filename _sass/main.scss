@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(20, 20, 20);
+  color: #fff;
+}
+
+a{
+    color: rgb(2, 170, 38);
+    text-decoration: none;
+}
+
+.navbar {
+  list-style-type: none;
+  display: flex;
+}
+.navbar > li{
+ margin: 5px;
+}
+
+.postlist {
+  list-style-type: none;
+}
