@@ -8,7 +8,7 @@ layout: default
 
   <h3 id="post-heading"> Our posts:</h3>
   <ul class="postlist">
-      {% for post in site.posts %}
+      {% for post in site.posts reversed %}
       <div class="post_entry">
         <h4 class="post-title"><a href="{{ post.url | relative_url }}">{{post.title}}</a></h4>
         <p class="date">{{post.date_written}} by {{ post.author }}</p>
