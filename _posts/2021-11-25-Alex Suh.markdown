@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Alex Suh - My experience in CHEM 1410"
+title:  "My experience in CHEM 1410"
+author: "Alex Suh"
 date:   2021-11-25
+date_written: "November 25th, 2021"
 ---
 Hi, everyone! I’m Alex - a current first-year (as of November 2021) and now almost a “graduate” of CHEM 1410! My first semester here has been exciting albeit somewhat challenging, but I’ve learned so much, and I can’t wait to apply my knowledge in future courses! Now onto an overview of CHEM 1410 - you’ll find that CHEM 1410 is structured much differently than typical courses you may have taken in high school. It is very self- and group-driven, and one thing you’ll learn is to work more effectively in independent and small-group settings, where you’ll find you’re spending most of your time. Lectures are driven more towards _reviewing_ content than introducing it for the first time, and on that note, _make sure you understand the textbook reading as completely as possible before you come to lecture_! You’ll find that your independent study is going to have far more use to you before lecture and expos, where you’ll spend a lot of time delving into more specific topics related to what you’ve learned. On that note, expos are some of the best times to reinforce your learning with fellow students, where you’ll get to discuss and debate challenging problems together, all while cumulatively bringing together material from all the previous units. 
 
