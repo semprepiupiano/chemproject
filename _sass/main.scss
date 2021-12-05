@@ -15,19 +15,6 @@
   }
 }
 
-footer {
-  background-color: #c7e3ed;
-  position: fixed;
-  left:0;
-  bottom:0;
-  @media (min-width: 500px) {
-    padding: 30px 75px;
-  }
-  @media (max-width: 500px) {
-    padding: 10px 25px;
-  }
-}
-
 .postlist {
   list-style-type: none;
   margin-top: 0px;
@@ -116,4 +103,11 @@ a {
 #entry-title {
   padding-top: 0px;
   margin-top: 10px;
+}
+
+#subheading {
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 20px;
+  color: rgb(61, 61, 61);
 }
