@@ -1,10 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
 
+#post-content {
+  @media (min-width: 1000px) {
+    padding: 0 250px;
+  }
+  @media (max-width: 1000px) {
+    padding: 0 150px;
+  }
+  @media (max-width: 700px) {
+    padding: 0 50px;
+  }
+  @media (max-width: 300px) {
+    padding: 0 10px;
+  }
+}
+
+footer {
+  background-color: #c7e3ed;
+  position: fixed;
+  left:0;
+  bottom:0;
+  @media (min-width: 500px) {
+    padding: 30px 75px;
+  }
+  @media (max-width: 500px) {
+    padding: 10px 25px;
+  }
+}
+
 .postlist {
   list-style-type: none;
   margin-top: 0px;
-  padding-left: 60px;
+  @media (min-width: 600px) {
+    padding-left: 60px;
+  }
+  @media (max-width: 600px) {
+    padding-left: 30px;
+  }
 }
+
 
 * {
   background-color: #d9f0f8;
@@ -16,21 +50,32 @@
   margin: auto;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 50px;
+  @media (min-width: 600px) {
+    font-size: 60px;
+  }
+  @media (max-width: 600px) {
+    font-size: 40px;
+  }
 }
 
 #post-heading {
   padding-left: 30px;
   padding-bottom: 25px;
-  font-size: 28px;
-  margin-top: 20px;
   margin-bottom: 0px;
+  @media (min-width: 600px) {
+    margin-top: 20px;
+    font-size: 40px;
+  }
+  @media (max-width: 600px) {
+    margin-top: 10px;
+    font-size: 30px;
+  }
 }
 
 .date {
   color: #222222;
-  font-size: 12px;
-  margin-bottom: 5px;
+  font-size: 16px;
+  margin-bottom: 20px;
   margin-top: 0px;
 }
 
@@ -49,35 +94,26 @@ a {
 .post-title {
   margin-bottom: 5px;
   margin-top: 0px;
-  font-size: 25px;
+  @media (max-width: 500px) {
+    padding-right: 50px;
+  }
+  @media (min-width: 600px) {
+    font-size: 35px;
+  }
+  @media (max-width: 600px) {
+    font-size: 28px;
+  }
 }
 
 .post_entry {
   padding-bottom: 10px;
 }
 
-footer {
-  background-color: #c7e3ed;
-  padding: 10px 50px 10px 50px;
-  position: fixed;
-  left:0;
-  bottom:0;
-}
-
 #home {
   font-size: 20px;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  margin-bottom: 0px;
-  padding-left: 75px;
 }
 
 #entry-title {
   padding-top: 0px;
   margin-top: 10px;
-}
-
-#post-content {
-  padding: 0px 75px 0px 75px;
-  text-align: justify;
 }
